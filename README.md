@@ -8,9 +8,7 @@ Funkcjonalności
     Przewijanie listy cytatów w pionie.
     Dane o cytatach są wczytywane z pliku tekstowego quotations.txt, przechowywanego lokalnie w folderze assets.
 
-Zrzuty ekranu
-Widok aplikacji
-<img src="https://github.com/Elenmith/QuotationApp/raw/main/screenshots/screenshot1.png" alt="Zrzut ekranu aplikacji" width="300">
+
 Wymagania
 
     Android Studio (dowolna wersja kompatybilna z Android SDK 21+).
