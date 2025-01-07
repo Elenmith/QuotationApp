@@ -14,7 +14,7 @@ public class QuoteAdapter extends RecyclerView.Adapter<QuoteAdapter.QuoteViewHol
 
     public QuoteAdapter(List<Quote> quotes) {
         this.quotes = quotes;
-    }
+    }dd
 
     @NonNull
     @Override
